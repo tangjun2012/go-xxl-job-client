@@ -13,7 +13,7 @@ xxj-job是一个Java实现的轻量级分布式任务调度平台，具体实现
 ## 部署xxl-job执行器（go版本）
 ### (1) 引入go客户端依赖
 ```
-go get github.com/feixiaobo/go-xxl-job-client
+go get github.com/tangjun2012/go-xxl-job-client.git
 ```
 ### (2) 在main方法中构建客户端client，注册任务，启动端口
 #### (1) 实现任务
