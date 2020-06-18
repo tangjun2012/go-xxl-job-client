@@ -3,10 +3,10 @@ package xxl
 import (
 	"context"
 	"github.com/apache/dubbo-go-hessian2"
-	"github.com/feixiaobo/go-xxl-job-client/handler"
-	"github.com/feixiaobo/go-xxl-job-client/logger"
-	"github.com/feixiaobo/go-xxl-job-client/option"
-	"github.com/feixiaobo/go-xxl-job-client/transport"
+	"github.com/tangjun2012/go-xxl-job-client/handler"
+	"github.com/tangjun2012/go-xxl-job-client/logger"
+	"github.com/tangjun2012/go-xxl-job-client/option"
+	"github.com/tangjun2012/go-xxl-job-client/transport"
 )
 
 type XxlClient struct {

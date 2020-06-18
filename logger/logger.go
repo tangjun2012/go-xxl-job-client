@@ -6,7 +6,7 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	"github.com/feixiaobo/go-xxl-job-client/constants"
+	"github.com/tangjun2012/go-xxl-job-client/constants"
 	"io"
 	"os"
 	"strings"

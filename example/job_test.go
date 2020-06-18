@@ -3,7 +3,7 @@ package example
 import (
 	"context"
 	"github.com/feixiaobo/go-xxl-job-client"
-	"github.com/feixiaobo/go-xxl-job-client/logger"
+	"github.com/tangjun2012/go-xxl-job-client/logger"
 	"log"
 )
 

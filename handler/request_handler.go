@@ -2,11 +2,11 @@ package handler
 
 import (
 	"github.com/apache/dubbo-go-hessian2"
-	"github.com/feixiaobo/go-xxl-job-client/admin"
-	"github.com/feixiaobo/go-xxl-job-client/logger"
-	"github.com/feixiaobo/go-xxl-job-client/option"
-	"github.com/feixiaobo/go-xxl-job-client/transport"
-	"github.com/feixiaobo/go-xxl-job-client/utils"
+	"github.com/tangjun2012/go-xxl-job-client/admin"
+	"github.com/tangjun2012/go-xxl-job-client/logger"
+	"github.com/tangjun2012/go-xxl-job-client/option"
+	"github.com/tangjun2012/go-xxl-job-client/transport"
+	"github.com/tangjun2012/go-xxl-job-client/utils"
 	"net/http"
 	"sync"
 )

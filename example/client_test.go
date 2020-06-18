@@ -2,7 +2,7 @@ package example
 
 import (
 	"github.com/feixiaobo/go-xxl-job-client"
-	"github.com/feixiaobo/go-xxl-job-client/option"
+	"github.com/tangjun2012/go-xxl-job-client/option"
 	"testing"
 )
 

@@ -2,7 +2,7 @@ package admin
 
 import (
 	"fmt"
-	"github.com/feixiaobo/go-xxl-job-client/transport"
+	"github.com/tangjun2012/go-xxl-job-client/transport"
 	"log"
 	"net"
 	"net/http"
